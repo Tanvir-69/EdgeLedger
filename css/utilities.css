@@ -43,7 +43,7 @@
   background: transparent;
   border: 1px solid #fff;
 }
-
+/* Flex Items */
 .flex-items {
   display: flex;
   text-align: center;
